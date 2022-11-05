@@ -1,6 +1,6 @@
 #!/bin/bash
 
-$TIME=`date`
+$TIME=`date +%Y/%m/%d@%H:%M:%S`
 git add *
 git commit -m "auto script job"
 git push origin main
