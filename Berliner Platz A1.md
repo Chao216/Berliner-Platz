@@ -1,7 +1,7 @@
 ---
 title: Berliner Platz A1
 created: '2022-11-05T09:31:49.827Z'
-modified: '2022-11-05T10:41:10.513Z'
+modified: '2022-11-05T10:45:03.380Z'
 ---
 
 # Berliner Platz A1
@@ -36,5 +36,4 @@ Negativer Artikel
 |f|meine|deine|seine|ihre|
 |p|meine|deine|seine|ihre|
 
-linux
 
