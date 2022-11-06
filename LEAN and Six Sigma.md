@@ -1,7 +1,7 @@
 ---
 title: LEAN and Six Sigma
 created: '2022-10-30T08:52:49.948Z'
-modified: '2022-11-06T08:32:55.999Z'
+modified: '2022-11-06T09:54:42.450Z'
 ---
 
 # LEAN and Six Sigma
@@ -26,6 +26,7 @@ follows the product
 1. mapping all end-to-end processes, actions
 1. make value ***contiunously flow***.
 1. let customers ***PULL*** values
+1. pursue of perfection
 
 ### Muda (無駄)、mura (無穩)、muri (無理)
 
@@ -55,4 +56,13 @@ TAKT time = (available time / customers' demand)
 - shared knowledge
 - mutual respect
 
+### steps of creating VSM
+
+1. define customer value and process
+2. picture out the current state of VSM
+1. analyze the map to determine improvement
+  identify bottlenecks and other impediments
+  brainstroms to eliminate waste and add value
+2. create a future-state VSM, and try visualize it
+5. create action plans to move forward to future state.
 
