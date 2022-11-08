@@ -1,7 +1,7 @@
 ---
 title: Berliner Platz A1
 created: '2022-11-05T09:31:49.827Z'
-modified: '2022-11-08T08:26:33.126Z'
+modified: '2022-11-08T08:33:11.939Z'
 ---
 
 # Berliner Platz A1
@@ -130,6 +130,19 @@ Ich bin in dem (im) Park.
 
 
 mit 永远加第三格 Dativ
+Ich gehe zum Stadt mit dem Fahrrad.
+我骑车去城市。
+
+von 永远加第三格 表属于
+Die Adresse von der Firma.
+公司的地址。
+Der Name von dem Mann.
+那个男人的名字。
+
+Über + 第四格 表示关于。
+
+Der Nachrichten über den Park.
+
 
 
 
