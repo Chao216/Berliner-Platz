@@ -1,7 +1,7 @@
 ---
 title: Berliner Platz A1
 created: '2022-11-05T09:31:49.827Z'
-modified: '2022-11-08T07:34:48.250Z'
+modified: '2022-11-08T08:26:33.126Z'
 ---
 
 # Berliner Platz A1
@@ -106,6 +106,32 @@ zu 强调朝方向
 |p|die|die|die|
 
 ### 动词与介词
+
+Warten auf 等待..
+Träumen von 梦见
+Telefonieren mit 和..打电话
+
+方位介词复合型
+Ich lade dich ins Restaurant ein. 我请你去餐馆。 可分介词在句末。
+
+### 静三动四
+
+动词 + 第四格
+表示动作， 除了 zu， zu后永远第三格
+
+Ich kaufe den Tisch.
+
+Ich gehe zu dem (zum) Markt.
+
+动词 + 第三格
+表示状态，表示位置
+
+Ich bin in dem (im) Park.
+
+
+mit 永远加第三格 Dativ
+
+
 
 
 
