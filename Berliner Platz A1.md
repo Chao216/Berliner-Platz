@@ -150,6 +150,8 @@ Der Nachrichten über den Park.
 Sie ist zweieinhalb jahre alt.
 她两岁半了。
 
+Ich trinke Kaffee ohne Zucker.
+我喝咖啡不要加糖。
 
 
 
