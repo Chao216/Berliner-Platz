@@ -143,6 +143,12 @@ Der Name von dem Mann.
 
 Der Nachrichten über den Park.
 
+# 复习2
+
+表示半，例如年龄， 1或1以上数字 加上 einhalb
+
+Sie ist zweieinhalb jahre alt.
+她两岁半了。
 
 
 
